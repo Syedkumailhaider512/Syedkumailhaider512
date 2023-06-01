@@ -1,5 +1,5 @@
 - 👋 **Assalam-o-Alaikum,** (Syed Kumail Haider) @Syedkumailhaider512 from this side!
-- 👀 **Knowing about my interests:** I’m interested in AI/ML/DL Developement , Android Developement & UI/UX Designing.
+- 👀 **Knowing about my interests:** I’m interested in Artificial Intelligence and Computational Biology.
 - 🌱 **Curious about my education:** I’m currently completing BS Artificial Intelligence.
 - 📫 skumailhaiderhsp@gmail.com is my e-mail address. Just leave your message and inshallah you will get your answers as soon as possible.
 
