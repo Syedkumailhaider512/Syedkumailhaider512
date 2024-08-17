@@ -46,6 +46,8 @@ Let's collaborate and explore the future together! You can connect with me on:
 
 Feel free to reach out if you share similar interests or just want to have a stimulating conversation about AI and technology. I'm always eager to connect with fellow enthusiasts.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedkumailhaider512&show_icons=true&locale=en&layout=compact" alt="syedkumailhaider512" /></p>
+
 <!-- Footer -->
 ---
 
