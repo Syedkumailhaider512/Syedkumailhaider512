@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Syedkumailhaider512)
 
 <!-- Introduction -->
-### AI Researcher • Founder, AI Cadmey • Vision & Simulation Systems
+### AI Researcher • Founder, AI Cadmey • Conscious Simulation Systems
 
 I build systems inspired by life, evolution, vision, and consciousness.
 My work focuses on biologically-plausible intelligence, 3D visual cortex simulation, and digital organisms that learn and evolve.
